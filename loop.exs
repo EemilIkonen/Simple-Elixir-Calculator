@@ -1,4 +1,4 @@
-#Calculator and Math source files can be found in the assigment05 file
+#Calculator and Math source files can be found in the directory
 
 
 defmodule Loop do
